@@ -1,0 +1,18 @@
+Create a New Local Git Repository: cd /path/to/your/folder
+Intialize git: git init
+
+Add Files: git add 'file name'
+
+Commit Files: git commit -m "Initial commit"
+
+Create GitHub Repo & Link Local Repo to Github
+
+Back to terminal:
+
+Set remote origin: git remote add origin https://github.com/username/repository.git
+
+Push Local Repo to Git: git push -u origin master
+
+
+
+
